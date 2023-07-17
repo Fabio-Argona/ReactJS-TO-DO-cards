@@ -24,6 +24,8 @@ Em resumo, o projeto "ReactJS-TO-DO-cards" é uma aplicação ReactJS que permit
 
 In the project directory, you can run:
 
+### `npm install`
+and
 ### `npm start`
 
 Runs the app in the development mode.\
