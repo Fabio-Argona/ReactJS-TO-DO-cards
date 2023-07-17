@@ -1,7 +1,4 @@
-# ReactJS-TO-DO-cards
-React-JS, criação de organograma, onde é criado cards atraves de preenchimento de formulário.
-
-O projeto "ReactJS-TO-DO-cards" é uma aplicação desenvolvida em ReactJS que permite a criação de um organograma por meio do preenchimento de formulários.
+<h1>O projeto "ReactJS-TO-DO-cards" é uma aplicação desenvolvida em ReactJS que permite a criação de um organograma por meio do preenchimento de formulários.</h1>
 
 A implementação do projeto utiliza componentes funcionais, seguindo as melhores práticas do React. Os componentes são estilizados com CSS para uma aparência visual agradável e coerente.
 
@@ -22,14 +19,3 @@ Também foi trabalhado com props que são funções, permitindo que componentes 
 Para manipulação e transformação de arrays de objetos, utilizamos as funções disponíveis em JavaScript, como map, filter e outras, para realizar operações como filtragem de itens do array e renderização condicional, exibindo ou ocultando determinados elementos dependendo das condições estabelecidas.
 
 Em resumo, o projeto "ReactJS-TO-DO-cards" é uma aplicação ReactJS que permite a criação de um organograma por meio de cards preenchidos em um formulário. O projeto utiliza componentes funcionais, estilização com CSS, manipulação de props, renderização de listas, eventos do DOM, controle de inputs, gerenciamento de estado, manipulação de arrays de objetos e renderização condicional para criar uma experiência interativa e dinâmica para o usuário.
-
-
-
-
-
-User
-reescrever a colofcar a tag HTML <p></p> em cada linha
-ChatGPT
-
-2 / 2
-
